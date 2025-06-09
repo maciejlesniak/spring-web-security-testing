@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-web-security-testing
+
+app:
+  messages:
+    creation: auto
+
+logging:
+  level:
+    org.springframework.security: debug
